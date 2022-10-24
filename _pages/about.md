@@ -5,5 +5,5 @@ permalink: /about
 ---
 
 *This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+  
+  أنا أسيد يحيى نأسل الله أن تنال ملاحظاتنا واعمالنا إعجابكم 😍
